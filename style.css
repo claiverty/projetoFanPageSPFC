@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;400&display=swap");
+
+div a {
+  color: white;
+}
+
+header {
+  background-color: black;
+  border: 2px solid;
+}
+
+div h3 {
+  color: white;
+  font-family: Poppins, Arial, sans-serif;
+}
+
+h1 {
+  font-family: Poppins, Arial, sans-serif;
+}
+
+h2 {
+  font-family: Poppins, Arial, sans-serif;
+}
+
+h3 {
+  font-family: Poppins, Arial, sans-serif;
+}
+
+strong a {
+  color: black;
+}
+
+p {
+  font-size: 18px;
+}
+
+.img_trofeus {
+  text-align: center;
+}
+
+.titulos {
+  font-size: 18px;
+}
+
+.morumbi {
+  text-align: center;
+}
+
