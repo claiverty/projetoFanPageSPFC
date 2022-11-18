@@ -1,0 +1,104 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;400&display=swap");
+
+center {
+  margin: 25px;
+  margin-left: 70px;
+  margin-right: 70px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+li {
+  display: inline-block;
+}
+
+body {
+  background-color: white;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+div a {
+  color: white;
+}
+
+header {
+  background-color: black;
+  border: 2px solid;
+}
+
+#header-acesso:hover {
+  color: red;
+  transition: 0.3s;
+}
+
+#conteudo {
+  height: 20px;
+  width: auto;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+div h3 {
+  color: black;
+  font-family: Poppins, Arial, sans-serif;
+}
+
+h1 {
+  font-family: Poppins, Arial, sans-serif;
+}
+
+h2 {
+  font-family: Poppins, Arial, sans-serif;
+}
+
+h3 {
+  font-family: Poppins, Arial, sans-serif;
+}
+
+strong a {
+  color: black;
+}
+
+p {
+  font-family: Poppins, Arial, sans-serif;
+  font-size: 18px;
+}
+
+#titular {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  gap: 3rem;
+}
+
+#reserva {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  gap: 3rem;
+}
+
+#alternativo {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  gap: 3rem;
+}
+
+.img-trofeus {
+  text-align: center;
+}
+
+.titulos {
+  font-family: Poppins, Arial, sans-serif;
+  font-size: 18px;
+}
+
+.morumbi {
+  text-align: center;
+}
